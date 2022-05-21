@@ -4,8 +4,8 @@ module.exports = {
     // Output production-ready code with all the optimizations (see https://webpack.js.org/configuration/mode/)
     mode: 'production',
 
-    // Consider index.ts as an entry point
-    entry: './src/index.ts',
+    // Consider index.tsx as an entry point
+    entry: './src/index.tsx',
 
     // Specify rules for handling different file types
     module: {
