@@ -1,17 +1,9 @@
 {
-    "name": "Plugin Name",
-    "id": "000000000000000000",
-    "api": "1.0.0",
-    "editorType": ["figma", "figjam"],
+    "name": "Widget Name",
+    "id": "1109957508846773331",
+    "editorType": ["figjam"],
     "main": "dist/index.js",
-    "menu": [
-        {
-            "name": "First Command",
-            "command": "first-command"
-        },
-        {
-            "name": "Second Command",
-            "command": "second-command"
-        }
-    ]
+    "api": "1.0.0",
+    "widgetApi": "1.0.0",
+    "containsWidget": true
 }
