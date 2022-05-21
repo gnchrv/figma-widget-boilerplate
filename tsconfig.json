@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "figma.widget.h",
+    "jsxFragmentFactory": "figma.widget.Fragment",
+    "lib": ["ES6"],
     "module": "es6",
     "target": "es6",
     "typeRoots": [
